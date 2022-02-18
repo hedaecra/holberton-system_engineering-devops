@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # This script is displaying number from 1 to 20
 
-c=0
+c=1
 while [ $c -lt 21 ]
 do
     echo $c
