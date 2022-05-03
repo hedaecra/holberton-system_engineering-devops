@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # Activate again the web server running and listening on port 80
 rm /etc/nginx/sites-enabled/default
 # create again a symbolic link [netstat -lpn]
