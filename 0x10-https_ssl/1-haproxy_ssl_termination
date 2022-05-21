@@ -16,5 +16,5 @@ backend allservers
     timeout connect 5s
     timeout server 3s
     mode http
-    server 3883-web-01 34.148.214.213:80 check
+    server 3883-web-01 35.227.39.162:80 check
     server 3883-web-02 54.147.20.114:80 check
